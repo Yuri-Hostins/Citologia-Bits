@@ -1,1 +1,1 @@
-# Citologia Bits ©
+# © Citologia Bits
