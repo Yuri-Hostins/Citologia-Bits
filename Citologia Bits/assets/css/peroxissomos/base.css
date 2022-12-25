@@ -1,0 +1,10 @@
+/* Import CSS*/
+
+@import url(../style.css);
+@import url(../menurede/button-yt.css);
+@import url(../navbar/navbar.css);
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background: #eef1f5; 
+}
