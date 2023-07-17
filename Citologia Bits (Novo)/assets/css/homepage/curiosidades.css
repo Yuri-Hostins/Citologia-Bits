@@ -1,0 +1,68 @@
+.curiosidades {
+  background: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.40)), url("../../img/background/background-curiosidades.png");
+  background-size: cover;
+}
+
+.curiosidades .contente {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: linha;
+  margin-top: 40px;
+}
+
+.curiosidades .contente .caixa {
+  width: 350px;
+  margin: 20px;
+  padding: 40px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.curiosidades .contente .caixa img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 48%;
+}
+
+.curiosidades .contente .caixa .texto {
+  text-align: center;
+
+}
+
+.curiosidades .contente .caixa .texto p {
+  color: #666;
+  font-style: italic;
+}
+
+.curiosidades .contente .caixa .texto h2 {
+  margin-top: 20px;
+  color: #111;
+  font-size: 1.5em;
+  color: #ff0157;
+  font-weight: 600;
+}
+
+.branco .titulo-texto,
+.branco p {
+  color: #fff;
+}
+
+@media screen and (max-width: 991px) {
+  .curiosidades .contente .caixa {
+    margin: 10px;
+    padding: 30px;
+  }
+
+  .branco p {
+    text-align: center;
+    margin-top: 1rem;
+  }
+}  

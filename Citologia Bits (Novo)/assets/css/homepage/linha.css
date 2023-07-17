@@ -1,0 +1,29 @@
+.linha {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.linha .coluna50 {
+  position: relative;
+  width: 48%;
+}
+
+@media screen and (max-width: 991px) {
+  
+  .linha {
+    flex-direction: column;
+  }
+  
+  .linha .coluna50 {
+    position: relative;
+    width: 100%;
+  }
+  
+  .linha .coluna50 .imagem-caixa {
+    height: 300px;
+    margin-top: 20px;
+  }
+
+}  
