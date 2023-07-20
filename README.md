@@ -4,7 +4,7 @@
 
 CitologiaBits é o meu primeiro projeto de site educacional desenvolvido para facilitar os estudos sobre citologia, o estudo da célula. Neste projeto, eu não tinha muito conhecimento sobre as tecnologias envolvidas, mas me esforcei para criar algo útil e informativo.
 
-![Citologia Bits Screenshot](./img/screenshot.png)
+![CitologiaBits Screenshot](https://github.com/Yuri-Hostins/Citologia-Bits/issues/1#issue-1813936311)
 
 ## Pré-requisitos
 
