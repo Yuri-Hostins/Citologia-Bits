@@ -40,6 +40,6 @@ Agora, o CitologiaBits possui um novo site com mais recursos e informações atu
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- Nome: [Yuri Hostins Raimundo]
-- Email: [YuriVn21@outlook.com]
-- Instagram: [https://instagram.com/dev._.yuri]
+- Nome: [ Yuri Hostins Raimundo ]
+- Email: [ YuriVn21@outlook.com ]
+- Instagram: [ https://instagram.com/dev._.yuri ]
