@@ -6,10 +6,6 @@ CitologiaBits é o meu primeiro projeto de site educacional desenvolvido para fa
 
 ![CitologiaBits Screenshot](https://github.com/Yuri-Hostins/Alguma-Coisa/blob/main/imagens/CitologiaBits.png)
 
-## Pré-requisitos
-
-Para executar este projeto localmente, você precisará de um navegador da web moderno, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
-
 ## Instalação e Execução
 
 1. Clone o repositório para o seu computador usando o comando: `git clone https://github.com/Yuri-Hostins/Citologia-Bits.git`
